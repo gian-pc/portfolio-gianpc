@@ -38,7 +38,7 @@ const Footer = () => {
 
 
     <div className="footer__copyright">
-      <small>&copy; Gian Paucar Cortez. All rights reserved.</small>
+      <small> Gian Paucar Cortez 2022 &copy;. All rights reserved.</small>
     </div>
 
 

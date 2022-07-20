@@ -2,11 +2,6 @@ import React from "react";
 import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
-
-// import { SiStyledcomponents } from "react-icons/si";
-// import { IoLogoReact } from "react-icons/io";
-import { DiReact } from "react-icons/di";
-import { SiStyledcomponents } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
 import { FiLink2 } from "react-icons/fi";
 import {IoLogoYoutube} from "react-icons/io"
@@ -136,9 +131,6 @@ const Portfolio = () => {
             </h5>
           </div>
         </div>
-
-       
-
       </div>
     </section>
   );
